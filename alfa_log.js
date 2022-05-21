@@ -1,1 +1,1 @@
-console.log("string")
+console.log("Alfa")
