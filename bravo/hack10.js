@@ -4,4 +4,7 @@
 
     a.splice(5,0,'qux','thud')
 
+
+
+    
     console.log(a)
